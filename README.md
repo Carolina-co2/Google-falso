@@ -23,3 +23,6 @@ Las tecnologías que utilicé, son:
 
 ### Objetivo del proyecto
 Aprender a utilizar las etiquetas estándar de HTML y CSS.
+
+### Link a demo
+En el siguiente link puedes ver mi proyecto terminado: [Clon de Google: https://google-falso-delta.vercel.app]
